@@ -4,12 +4,13 @@
 #### This project uses an AI model trained on the MNIST dataset to predict handwritten numbers with noise.
 ### ⚠️ Warning: Please note that this model is optimized for predicting very noisy images. As a result, it may not perform with very high accuracy on the standard MNIST validation data. Keep this in mind when evaluating the model’s performance.
 #### Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/Beta
-## Data Processing
+## Data Processing (training)
 
 The data processing pipeline is optimized to handle noisy images. It includes the following steps:
-1. Noise reduction: The images are pre-processed to reduce the noise in the image.
-2. Normalization: The pixel values are normalized to have zero mean and unit variance.
-3. Data augmentation: The training data is augmented by applying random transformations to the images.
+1. Random zooming: The images are randomly zoomed in or out to create variations in the training.
+2. Random cropping: The images are randomly cropped to create variations in the training data.
+3. Adding noise: Random noise is added to the images to simulate real-world conditions.
+4. Increasing the number of training records: The data augmentation techniques increase the number of training records from the original 60,000 to around 480,000.
 
 ## Model
 
