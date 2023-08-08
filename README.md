@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 #### This project uses an AI model trained on the MNIST dataset to predict handwritten numbers with noise.
-
+#### Newest release: 
 ## Data Processing
 
 The data processing pipeline is optimized to handle noisy images. It includes the following steps:
@@ -20,4 +20,4 @@ To use the model, follow these steps:
 1. Install the required dependencies by running `pip install -r requirements.txt`.
 2. You can use the pre trained model `...\pre-trained model\MNIST_model.h5`<br />
 
-If you just want to test it use this release: 
+Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/Beta
