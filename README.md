@@ -22,4 +22,3 @@ To use the model, follow these steps:
 1. Install the required dependencies by running `pip install -r requirements.txt`.
 2. You can use the pre trained model `...\pre-trained model\MNIST_model.h5`<br />
 
-Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/Beta
