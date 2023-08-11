@@ -3,3 +3,5 @@
 /build
 /pre-trained model/temp
 /test.py
+/MNIST_model.h5
+/pre-trained model/temp model.txt
