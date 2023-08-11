@@ -12,7 +12,8 @@
 > Thank you for your patience.
 
 ## Release
-#### Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.4-beta
+> ### Newest release 📃
+> https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.5-beta
 ## Data Processing (training)
 
 The data processing pipeline is optimized to handle noisy images. It includes the following steps:
