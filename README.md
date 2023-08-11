@@ -2,7 +2,16 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
 
 #### This project uses an AI model trained on the MNIST dataset to predict handwritten numbers with noise.
-### ⚠️ Warning: Please note that this model is optimized for predicting very noisy images. As a result, it may not perform with very high accuracy on the standard MNIST validation data. Keep this in mind when evaluating the model’s performance.
+> # :warning: **WARNING**
+>  Please note that this model is optimized for predicting very noisy images. As a result, it may not perform with very high accuracy on the standard MNIST validation data. Keep this in mind when evaluating the model’s
+> performance.
+
+> # :warning: **WARNING**
+> This model was not generated with this code due to some version control problems. We are aware of this issue and it will be fixed soon. 
+> However, please note that **this model is better than the model that the current code generates**. 
+> Thank you for your patience.
+
+## Release
 #### Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.4-beta
 ## Data Processing (training)
 
