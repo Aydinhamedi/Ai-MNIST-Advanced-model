@@ -3,7 +3,7 @@
 
 #### This project uses an AI model trained on the MNIST dataset to predict handwritten numbers with noise.
 ### ⚠️ Warning: Please note that this model is optimized for predicting very noisy images. As a result, it may not perform with very high accuracy on the standard MNIST validation data. Keep this in mind when evaluating the model’s performance.
-#### Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/Beta
+#### Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.4-beta
 ## Data Processing (training)
 
 The data processing pipeline is optimized to handle noisy images. It includes the following steps:
@@ -22,4 +22,3 @@ To use the model, follow these steps:
 1. Install the required dependencies by running `pip install -r requirements.txt`.
 2. You can use the pre trained model `...\pre-trained model\MNIST_model.h5`<br />
 
-Newest release: https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/Beta
