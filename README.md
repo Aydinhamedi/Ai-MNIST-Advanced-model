@@ -20,7 +20,8 @@ The data processing pipeline is optimized to handle noisy images. It includes th
 1. Random zooming: The images are randomly zoomed in or out to create variations in the training.
 2. Random cropping: The images are randomly cropped to create variations in the training data.
 3. Adding noise: Random noise is added to the images to simulate real-world conditions.
-4. Increasing the number of training records: The data augmentation techniques increase the number of training records from the original 60,000 to around 480,000.
+4. generating data
+5. Increasing the number of training records: The data augmentation techniques increase the number of training records from the original 60,000 to around 480,000.
 
 ## Model
 
