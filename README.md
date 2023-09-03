@@ -6,11 +6,6 @@
 >  Please note that this model is optimized for predicting very noisy images. As a result, it may not perform with very high accuracy on the standard MNIST validation data. Keep this in mind when evaluating the model’s
 > performance.
 
-> # :warning: **WARNING**
-> This model was not generated with this code due to some version control problems. We are aware of this issue and it will be fixed soon. 
-> However, please note that **this model is better than the model that the current code generates**. 
-> Thank you for your patience.
-
 ## Release
 > ### Newest release 📃
 > https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.5-beta
