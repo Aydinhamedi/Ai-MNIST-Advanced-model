@@ -1,7 +1,25 @@
-/test
+#data processing
+/test_TS
+/train_TS
+/test_TS_GEN
+/test_TS_ARG
+/mnist.npz
+#model evaluate
 /IMG_ITER
-/build
-/pre-trained model/temp
-/test.py
+/RUN_TEST.cmd
 /MNIST_model.h5
+/testing
+/test_TS_TVS
+/logs
+/START_tensorboard.cmd
+/Clean_Temp.cmd
+/pre-trained model/temp DP.txt
+/base_CNN_model.md
+/pre-trained model/temp
 /pre-trained model/temp model.txt
+/MD_test copy.py
+/Gtest.png
+/image.jpg
+/image.png
+#other
+/build
