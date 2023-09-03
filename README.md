@@ -8,7 +8,7 @@
 > ### Newest release 📃
 > #### [Go to newest release](https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.6)
 
-> ### examples 📚
+> ### Examples 📚
 > #### [Go to example](TR.md)
 ## Data Processing (training)
 
