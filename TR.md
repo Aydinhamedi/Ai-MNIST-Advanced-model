@@ -1,7 +1,7 @@
 # TEST RESULTS
 > #### [Go to Test 1](#T1)
 ## TEST(1) <a name="T1"></a>
-![G_test](Gtest.png)
+![G_test](doc/Gtest.png)
 ### 9/10 was correct
 ### the used code:
 ~~~python
