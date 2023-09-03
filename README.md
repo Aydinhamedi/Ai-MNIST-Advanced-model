@@ -21,7 +21,7 @@ The data processing pipeline is optimized to handle noisy images. It includes th
 
 ## Model
 
-The AI model is a convolutional neural network (CNN) that is trained on the MNIST dataset. The model architecture and hyperparameters are chosen to achieve high accuracy on noisy images.
+The AI model is a convolutional neural network (CNN) that is trained on the MNIST dataset. The model architecture and hyperparameters are chosen to achieve high accuracy on noisy images(real world data).
 
 ## Usage
 
