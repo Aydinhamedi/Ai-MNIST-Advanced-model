@@ -27,5 +27,7 @@ The AI model is a convolutional neural network (CNN) that is trained on the MNIS
 
 To use the model, follow these steps:
 1. Install the required dependencies by running `pip install -r requirements.txt`.
-2. You can use the pre trained model `...\pre-trained model\MNIST_model.h5`<br />
+2. You can use the pre trained model `...\pre-trained model\MNIST_model.h5`
+3. download the data set with `download dataset.py`<br />
+
 
