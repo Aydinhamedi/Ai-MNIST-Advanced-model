@@ -9,7 +9,7 @@
 > #### [Go to newest release](https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/releases/tag/V0.3.6)
 
 > ### Examples 📚
-> #### [Go to example](TR.md)
+> #### [Go to example]([TR.md](https://github.com/Aydinhamedi/Ai-MNIST-Advanced-model/blob/main/TR.md))
 ## Data Processing
 
 The data processing pipeline is optimized to handle noisy images. It includes the following steps:
